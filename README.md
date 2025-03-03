@@ -156,10 +156,7 @@ Disadvantages:
 - Late Testing & Bug Detection:Bugs are often found at the end of development, leading to delays.  
 - Long Time to Market: Software is only delivered at the final stage, delaying feedback.  
 - Customer Involvement is Limited: Clients only see the final product, increasing the risk of misalignment.  
- 
 
-| Factor           | Agile | Waterfall |
-|----------------|--------|------------|
 Approach ;Agile methodology is Iterative & flexible while waterfall is Linear & structured.
 Customer Involvement;Agile methodology has high (frequent feedback) while waterfall has Low (mainly at the beginning & end)
 Flexibility is High (requirements can change) in Agile methodology while Low (fixed requirements)in waterfall methodology
